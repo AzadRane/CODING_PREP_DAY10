@@ -1,0 +1,5 @@
+Static used for sharing of data ;
+Static block runs always first and before main and before constructor;
+To Access static methods or variable use class name;
+Static block runs only once after compilation;
+Static block does not allow "this" ;
